@@ -5,8 +5,8 @@ backend:
 media_folder: "assets/uploads"
 public_folder: "assets/uploads"
 
-site_url: /
-display_url: /
+site_url: https://gnohealthwellnessalliance.netlify.app
+display_url: https://gnohealthwellnessalliance.netlify.app
 
 collections:
   - name: "settings"
